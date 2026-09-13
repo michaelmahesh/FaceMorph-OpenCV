@@ -1,5 +1,5 @@
 numpy==1.26.4
 opencv-contrib-python==4.11.0.86
 mediapipe==0.10.21
-
-streamlit==1.63.0
+protobuf==4.25.9
+streamlit==1.34.0
